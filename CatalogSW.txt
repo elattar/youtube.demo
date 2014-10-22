@@ -1,0 +1,9 @@
+Name: Mariner
+Place: America
+Date: 1962
+Description: The Mariner 1 rocket with a space probe headed for Venus diverted from its intended flight path shortly after launch.
+,Name: World War III
+Place: Russia
+Date: 1983
+Description: The Soviet early warning system falsely indicated the United States had launched five ballistic missiles. 
+,

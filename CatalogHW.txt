@@ -1,0 +1,9 @@
+Name: Medical Machine Kills
+Place: canada
+Date: 1985
+Description: Canada’s Therac-25 radiation therapy machine malfunctioned and delivered lethal radiation doses to patients.
+,Name: Wall Street Crash
+Place: america
+Date: 1987
+Description: the Dow Jones Industrial Average plummeted 508 points, losing 22.6% of its total value.
+,
